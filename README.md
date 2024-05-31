@@ -1,4 +1,4 @@
-### Hi there, I'm Sunny Dhama - aka [balckwolf08][website] 👋
+### Hi there, I'm Ishtmeet Singh Arora - aka [balckwolf08][website] 👋
 
   <summary>:zap: Github Stats</summary>
 
