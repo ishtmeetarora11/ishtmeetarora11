@@ -1,13 +1,12 @@
 
 <h1 align="center"><b>Hi , I'm Ishtmeet Singh Arora </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-[website]
-[![Website](https://img.shields.io/website?label=ishtmeet-arora.com&style=for-the-badge&url=https%3A%2F%2Fishtmeet-arora.com)](https://ishtmeet-arora.com)
+
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ishtmeet+Singh+Arora..&hearts;++;Software+Engineer;Computer+Science+Student;Love+to+learn+new+stuff..<3"></a>
 </p>
 
-
+[![Website](https://img.shields.io/website?label=ishtmeet-arora.com&style=for-the-badge&url=https%3A%2F%2Fishtmeet-arora.com)](https://ishtmeet-arora.com)
 <br>
 
 
