@@ -1,16 +1,12 @@
-### Hi there, I'm Ishtmeet Singh Arora - aka [balckwolf08][website] 👋
+### Hi there, I'm Ishtmeet Singh Arora - aka [ishtmeetarora11][website] 👋
 
-  <summary>:zap: Github Stats</summary>
-
-[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackwolf08)](https://github.com/blackwolf08/github-readme-stats)
-
-[![Website](https://img.shields.io/website?label=sunny-dhama.com&style=for-the-badge&url=https%3A%2F%2Fsunny-dhama.com)](https://sunny-dhama.com)
+[![Website](https://img.shields.io/website?label=sunny-dhama.com&style=for-the-badge&url=https%3A%2F%2Fsunny-dhama.com)](https://ishtmeet-arora.com)
 
 ## I'm a Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
