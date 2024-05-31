@@ -8,15 +8,11 @@
 
 [![Website](https://img.shields.io/website?label=ishtmeet-arora.com&style=for-the-badge&url=https%3A%2F%2Fishtmeet-arora.com)](https://ishtmeet-arora.com)
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
 
 - A passionate Software Engineer
 - Playing Chess in spare time
@@ -24,7 +20,7 @@
 - Personal website [link](https://ishtmeet-arora.com)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1TH27cZLJ_1PvCURgmPp56amv4JGvyXMA/view?usp=drive_link)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -40,7 +36,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<br>   
+  
     
 - **Front-End Development**:
 
@@ -48,13 +44,13 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br>
+
 
 - **Softwares and Tools**:
 
@@ -64,7 +60,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
+
 
 - **Extras**:
 
@@ -75,12 +71,12 @@
 </p>
 
 <br>
-<br>
+
 
 -----
 
 <br>
-<br>
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -94,7 +90,7 @@
 </a>
 </li>
 
-<br>
+
 
 <li>
 <a href="https://twitter.com/ishtupaaji" target="_blank">
@@ -102,7 +98,7 @@
 </a>
 </li>
 
-<br>
+
 
 <li>
 <a href="mailto:ishtmeet.arora@gmail.com" target="_blank">
@@ -116,7 +112,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
+
 
 
 ---
