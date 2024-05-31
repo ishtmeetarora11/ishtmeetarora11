@@ -1,4 +1,4 @@
-### Hi there, I'm Ishtmeet Singh Arora - aka [ishtmeetarora11][ishtmeet-arora.com] 👋
+### Hi there, I'm Ishtmeet Singh Arora - aka [ishtmeetarora11][website] 👋
 
 [![Website](https://img.shields.io/website?label=ishtmeet-arora.com&style=for-the-badge&url=https%3A%2F%2Fishtmeet-arora.com)](https://ishtmeet-arora.com)
 
