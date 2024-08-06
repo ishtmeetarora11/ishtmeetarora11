@@ -9,9 +9,7 @@
 [![Website](https://img.shields.io/website?label=ishtmeet-arora.com&style=for-the-badge&url=https%3A%2F%2Fishtmeet-arora.com)](https://ishtmeet-arora.com)
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## **About me**
 
 
 - A passionate Software Engineer
