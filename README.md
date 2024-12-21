@@ -16,7 +16,7 @@
 - Playing Chess in spare time
 - Currently learning Front Endzz
 - Personal website [link](https://ishtmeet-arora.com) 
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1U8NmFMDxX3yWFHdo1JyaNanV6m_Nv8KX/view?usp=drive_link)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1aBTUHKgaxNTlHLKWIVeNYNytz3jbi_WU/view?usp=sharing)
 
 <br>
 
